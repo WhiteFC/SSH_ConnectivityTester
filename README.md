@@ -13,3 +13,5 @@ credentials.txt: In this file the login credentials required for each server mus
 }
 
 servers.txt: Here you must list the servers to which the script will try to connect. Each server should be on a separate line. 
+
+Make sure you have the “paramiko” library installed
